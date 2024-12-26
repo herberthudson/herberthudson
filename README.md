@@ -3,7 +3,7 @@
 ## <img align="right" src="https://avatars.githubusercontent.com/u/8721855?v=4" width="230">
 
 <p><em>
-Software Engineer at <a href="https://br.nttdata.com/">NTT DATA</a><br />
+Software Engineer <br />
 Working as a consultant for big companies.
 </em></p>
 
